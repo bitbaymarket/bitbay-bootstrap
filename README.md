@@ -2,7 +2,7 @@ To install the latest bootstrap files:
 
 1. Open your BitBay data folder located in the following directory (depending on your computer OS):
 
-- Windows users: users/“youruser”/appdata/roaming/Bitbay folder (make sure you have “show hidden files” selected)
+- Windows users: users/“yourusername”/appdata/roaming/Bitbay folder (make sure you have “show hidden files” selected)
 - Mac users: ~/Library > Application Support > BitBay
 - Linux users: ~/.bitbay (make sure you have “show hidden files” selected)
 
