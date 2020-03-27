@@ -1,3 +1,5 @@
+** Always backup wallet.dat before making any changes **
+
 To install the latest bootstrap files:
 
 1. Open your BitBay data folder located in the following directory (depending on your computer OS):
